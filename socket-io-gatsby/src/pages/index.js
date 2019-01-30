@@ -19,7 +19,7 @@ class TrollJohn extends React.Component {
       this.setState({ words: [...this.state.words, words] });
       this.setState({ wordCount: this.state.wordCount + 1 });
       console.log(this.state.wordCount);
-      if (this.state.wordCount > 9) {
+      if (this.state.wordCount > 10) {
           this.state.words.shift();
       }
     };
