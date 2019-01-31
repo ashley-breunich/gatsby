@@ -11,17 +11,17 @@ class TrollJohn extends React.Component {
         words: [],
         wordCount: 0,
       };
-      console.log(this.state.words)
       socket.on('incoming', payload => this.updateWords(payload));
     }
   
     updateWords = words => {
-      this.setState({ words: [...this.state.words, words] });
       this.setState({ wordCount: this.state.wordCount + 1 });
-      console.log(this.state.wordCount);
-      if (this.state.wordCount > 10) {
-          this.state.words.shift();
-      }
+      console.log('word count', this.state.wordCount);
+      if (this.state.wordCount > 9) {
+        this.state.words.shift();
+    }
+      this.setState({ words: [...this.state.words, words] });
+      console.log('word', this.state.words);
     };
   
     handleSubmit = event => {
@@ -31,6 +31,7 @@ class TrollJohn extends React.Component {
   
     handleNewWords = event => {
       this.setState({ typedInput: event.target.value });
+
     };
   
     render() {
