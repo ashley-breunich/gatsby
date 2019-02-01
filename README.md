@@ -45,7 +45,6 @@ The following websites use Gatbsy:
 1. Reactjs.org
 2. Codesandbox.io
 
-
 ### Links & Resources 
 [Framework](https://www.gatsbyjs.org/) 
 [Docs](https://www.gatsbyjs.org/docs/)
