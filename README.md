@@ -74,10 +74,18 @@ The following websites use Gatbsy:
 2. Codesandbox.io
 
 ### Links & Resources 
+- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+
+- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+
 [Framework](https://www.gatsbyjs.org/) 
+
 [Docs](https://www.gatsbyjs.org/docs/)
+
 [Recipes](https://www.gatsbyjs.org/docs/recipes)
+
 [Getting Started Tutorial](https://www.gatsbyjs.org/tutorial/part-one/)
+
 [How to Build a Blog](https://codeburst.io/build-a-blog-using-gatsby-js-react-8561bfe8fc91)
 
 ### Code Demo
