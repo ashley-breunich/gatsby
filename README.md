@@ -38,7 +38,7 @@ I also appreciate how the "get started" page offers 4 levels of assistance for p
 To get up and running with Gatsby, you will need to have a recent version of Node.js installed on your computer. It can work with AWS and Heroku quite easily. There is documentation for both processes.  
 
 #### Ramp-Up Projects
-I think it would take a junior developer with a background in React a full work day to get familiar with the program. Obviously there is a lot to explore. We did not work with Graph QL at all so I am sure that would take longer to learn. 
+I think it would take a junior developer with a background in React a full work day to get familiar with the program. Obviously there is a lot to explore. We did not work with Graph QL at all so I am sure that would take longer to learn that query language. 
 
 #### Community Support and Adoption Levels 
 The following websites use Gatbsy: 
